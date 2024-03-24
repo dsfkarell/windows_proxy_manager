@@ -39,3 +39,10 @@ Luego, en la raiz del proyecto donde se encuentra el fichero *main.py*, construy
 ```flet pack main.py```
 
 El ejecutable _.exe_ se encontrará dentro de la carpeta **dist** creada en la raiz del proyecto.
+
+# Posibles mejoras
+
+Esta aplicación puede ser mejorada incluyendo: excepciones de uso de proxy (bypass), validación de datos, gestor de múltiples proxies guardados.
+
+# Pruebas
+Probado en Windows 11 (23H2).
