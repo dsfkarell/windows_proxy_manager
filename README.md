@@ -20,6 +20,14 @@ Solo debes instalar las dependencias (flet) directamente con el comando ```pip i
 Ejecutar con el comando:
 ```flet run``` o ```python main.py```
 
+![GUI WPM](img/wpm 1.png "Interfaz de Windows Proxy Manager")
+
+Establecer la configuración deseada y presionar el botón _Guardar_.
+
+![GUI WPM](img/wpm 2.png "Datos guardados")
+
+La configuración establecida se activará inmediatamente.
+
 ## Generar un ejecutable _.exe_ para Windows
 
 Debes instalar el paquete PyInstaller:
