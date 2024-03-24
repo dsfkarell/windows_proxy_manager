@@ -20,11 +20,11 @@ Solo debes instalar las dependencias (flet) directamente con el comando ```pip i
 Ejecutar con el comando:
 ```flet run``` o ```python main.py```
 
-![GUI WPM](img/wpm 1.png "Interfaz de Windows Proxy Manager")
+![GUI WPM](https://github.com/dsfkarell/windows_proxy_manager/blob/master/img/wpm%201.png?raw=true "Interfaz de Windows Proxy Manager")
 
 Establecer la configuración deseada y presionar el botón _Guardar_.
 
-![GUI WPM](img/wpm 2.png "Datos guardados")
+![GUI WPM](https://github.com/dsfkarell/windows_proxy_manager/blob/master/img/wpm%202.png?raw=true "Datos guardados")
 
 La configuración establecida se activará inmediatamente.
 
