@@ -26,7 +26,7 @@ Debes instalar el paquete PyInstaller:
 
 ```pip install pyinstaller```
 
-Luego, en la raiz del proyecto donde se encuentra el fichero main.py, construye el ejecutable de la aplicación con el siguiente comando:
+Luego, en la raiz del proyecto donde se encuentra el fichero *main.py*, construye el ejecutable de la aplicación con el siguiente comando:
 
 ```flet pack main.py```
 
